@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+ <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="awesome.svg">
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5335"
+       id="pattern5414"
+       patternTransform="translate(-242.23823,311.02811)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5276"
+       id="pattern5291"
+       patternTransform="matrix(1.0135264,0,0,1.0088196,262.93598,-50.181634)" />
+    <inkscape:path-effect
+       effect="vonkoch"
+       id="path-effect5225"
+       is_visible="true"
+       ref_path="m 162.85715,296.64789 351.42856,0"
+       generator="m 162.85715,472.36217 117.14285,0 m 117.14286,0 117.14285,0"
+       similar_only="false"
+       nbgenerations="1"
+       drawall="true"
+       maxComplexity="1000" />
+    <linearGradient
+       id="linearGradient5200"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop5202" />
+    </linearGradient>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="279"
+       height="400"
+       patternTransform="translate(422.14484,222.02699)"
+       id="pattern5276">
+      <image
+         width="279"
+         height="400"
+         xlink:href="file:///D:/ExraZ/0102_enrique_iglesia.jpg"
+         id="image5273"
+         x="0"
+         y="0" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="279"
+       height="400"
+       patternTransform="translate(422.14484,222.02699)"
+       id="pattern5276-2">
+      <image
+         width="279"
+         height="400"
+         xlink:href="file:///D:/ExraZ/0102_enrique_iglesia.jpg"
+         id="image5273-3"
+         x="0"
+         y="0" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="244"
+       height="313"
+       patternTransform="translate(150.74118,512.00421)"
+       id="pattern5335">
+      <image
+         width="244"
+         height="313"
+         xlink:href="file:///G:/Aayaam%20Systems/EXCHANGE/blog-base-frame.png"
+         id="image5332"
+         x="0"
+         y="0" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="279"
+       height="400"
+       patternTransform="translate(422.14484,222.02699)"
+       id="pattern5276-8">
+      <image
+         width="279"
+         height="400"
+         xlink:href="file:///D:/ExraZ/0102_enrique_iglesia.jpg"
+         id="image5273-8"
+         x="0"
+         y="0" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="279"
+       height="400"
+       patternTransform="translate(422.14484,222.02699)"
+       id="pattern5276-7">
+      <image
+         width="279"
+         height="400"
+         xlink:href="file:///D:/ExraZ/0102_enrique_iglesia.jpg"
+         id="image5273-1"
+         x="0"
+         y="0" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="158.57237"
+     inkscape:cy="895.67186"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:url(#pattern5291);fill-opacity:1;stroke:#ff0000;stroke-width:1.51776671;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
+       d="M 14.512162,7.6960252 218.11008,8.776891 c 14.4382,0.07666 16.79146,4.945931 16.84774,19.317172 l 1.02382,261.278957 c 0.0414,10.55429 1.68464,9.15875 -5.5858,9.12652 L 24.285458,297.58602 C 9.847181,297.52212 8.657491,288.44735 9.164567,273.0675 11.929271,189.21287 9.806493,258.87494 9.806493,14.18128 c 0,-8.2463748 -0.68528,-6.5138778 4.705669,-6.4852548 z"
+       id="rect5246"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss" />
+    <path
+       style="fill:url(#pattern5414);fill-opacity:1;stroke:#ff0000;stroke-width:1.50100005;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
+       d="m 183.16126,-2.1127524 48.73782,-0.35716 c 14.16299,-0.10379 16.26189,30.9915604 16.05149,47.7197304 l -3.27555,260.423292 c -0.13158,10.46128 0.94771,6.24131 -6.22553,6.18962 L 13.661263,310.24289 C -0.58408709,310.14024 2.2326929,300.56004 2.2326929,286.31433 c 0,-83.16618 -0.7143,-42.30123 -0.7143,-284.8556524 0,-8.17428 131.1911971,-3.20171 181.6428671,-3.57143 z"
+       id="rect5246-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss" />
+  </g>
+</svg>
